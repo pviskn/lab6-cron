@@ -77,5 +77,5 @@
 1. [Что такое cron и как его правильно использовать](https://timeweb.com/ru/community/articles/chto-takoe-cron)
 2. [Туториал по tar](https://linux-docs.vercel.app/docs/linux-basics/tar-command-usage-and-examples)
 4. [Работа с cron на русском](https://losst.pro/nastrojka-cron)
-5. [tar](https://losst.pro/komanda-tar-v-linux)
+5. [Работа с tar на русском](https://losst.pro/komanda-tar-v-linux)
 6. [Источник со всей информацией](https://www.google.ru/)
